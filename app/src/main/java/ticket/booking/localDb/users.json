@@ -1,0 +1,70 @@
+[
+  {
+    "user_id": "1",
+    "name": "ashutosh tripathi",
+    "hashed_password": "ashutosh123",
+    "tickets_booked": [
+      {
+        "ticket_id": "1",
+        "user_id": "1",
+        "source": "pune",
+        "destination": "mumbai",
+        "date_of_travel": "2021-10-10",
+        "price": "1000",
+        "status": "booked"
+      },
+      {
+        "ticket_id": "2",
+        "user_id": "1",
+        "source": "pune",
+        "destination": "mumbai",
+        "date_of_travel": "2021-10-10",
+        "price": "1000",
+        "status": "booked"
+      },
+      {
+        "ticket_id": "3",
+        "user_id": "1",
+        "source": "pune",
+        "destination": "mumbai",
+        "date_of_travel": "2021-10-10",
+        "price": "1000",
+        "status": "booked"
+      }
+    ]
+  },
+  {
+    "user_id": "2",
+    "name": "ashutosh tripathi",
+    "hashed_password": "ashutosh123",
+    "tickets_booked": [
+      {
+        "ticket_id": "4",
+        "user_id": "2",
+        "source": "pune",
+        "destination": "mumbai",
+        "date_of_travel": "2021-10-10",
+        "price": "1000",
+        "status": "booked"
+      },
+      {
+        "ticket_id": "5",
+        "user_id": "2",
+        "source": "pune",
+        "destination": "mumbai",
+        "date_of_travel": "2021-10-10",
+        "price": "1000",
+        "status": "booked"
+      },
+      {
+        "ticket_id": "6",
+        "user_id": "2",
+        "source": "pune",
+        "destination": "mumbai",
+        "date_of_travel": "2021-10-10",
+        "price": "1000",
+        "status": "booked"
+      }
+    ]
+  }
+]
