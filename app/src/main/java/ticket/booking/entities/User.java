@@ -23,4 +23,8 @@ public class User {
     public Object getPassword() {
         return password;
     }
+
+    public Object getName() {
+        return name;
+    }
 }
